@@ -1,16 +1,23 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋🏼 I'm Diego Cuenca</strong> 🫡 </h2>
 
-<!--
-**diegoxxc14/diegoxxc14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+<h2 align="center">About me 🤏🏼</h2>
+<p align="left">
+  Working...
+  <!--
+- 🔭 I’m currently working on COAC Padre Julián Lorente as Dev
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+</p>
+
+<h2 align="center">My skills 🦾</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,django,flask,docker,postgres,oracle,mysql,html,js,css)](https://skillicons.dev)
+
+<h2 align="center">Learning 🤓</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,rust,go,azure,gcp)](https://skillicons.dev)
